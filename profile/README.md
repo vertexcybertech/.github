@@ -1,4 +1,4 @@
-# VertexCybter Tech Solutions 🚀
+# VertexCyber Tech Solutions 🚀
 
 **Leading IT Services & Digital Transformation**
 
@@ -8,7 +8,7 @@
 
 ## 🌟 About Us
 
-VertexCybter Tech Solutions is a leading technology company specializing in end-to-end IT services and digital transformation. We combine cutting-edge technology expertise with deep business understanding to deliver solutions that not only meet today's needs but prepare organizations for tomorrow's opportunities.
+VertexCyber Tech Solutions is a leading technology company specializing in end-to-end IT services and digital transformation. We combine cutting-edge technology expertise with deep business understanding to deliver solutions that not only meet today's needs but prepare organizations for tomorrow's opportunities.
 
 From AI-powered solutions to digital marketing, we provide comprehensive technology services that drive business growth and innovation in today's digital landscape.
 
@@ -64,7 +64,7 @@ From AI-powered solutions to digital marketing, we provide comprehensive technol
 
 ## 🌟 Client Success Stories
 
-> *"VertexCybter Tech's AI/ML solutions transformed our business operations. The RAG model they implemented increased our efficiency by 300%."*
+> *"VertexCyber Tech's AI/ML solutions transformed our business operations. The RAG model they implemented increased our efficiency by 300%."*
 
 > *"Their cybersecurity expertise saved us from potential threats. The team's proactive approach is exceptional."*
 
@@ -72,7 +72,7 @@ From AI-powered solutions to digital marketing, we provide comprehensive technol
 
 ---
 
-## 🚀 Why Choose VertexCybter Tech?
+## 🚀 Why Choose VertexCyber Tech?
 
 - ✅ **Proven Results**: Track record of delivering measurable business impact
 - ✅ **Expert Team**: Specialists in the latest technologies and frameworks
@@ -114,7 +114,7 @@ Ready to transform your business with cutting-edge technology?
 
 ## 📄 License
 
-© 2024 VertexCybter Tech Solutions. All rights reserved.
+© 2024 VertexCyber Tech Solutions. All rights reserved.
 
 ---
 
